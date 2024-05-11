@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-Exp-8-Name-Hiding-with-interface-inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63f5c02ca02871558e73403153e3a6fb6796494c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3edb7d9e4e734c820d5b5f1bbb61b096e286c92e")]
 [assembly: System.Reflection.AssemblyProductAttribute("-Exp-8-Name-Hiding-with-interface-inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-Exp-8-Name-Hiding-with-interface-inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
