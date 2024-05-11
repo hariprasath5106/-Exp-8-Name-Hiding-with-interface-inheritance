@@ -65,8 +65,7 @@ class Program
 }
 ```
 # OUTPUT:
-
-(326490903-1dfe74a6-f66b-4017-9d90-c1c30469de69.png)
+![326490903-1dfe74a6-f66b-4017-9d90-c1c30469de69](https://github.com/hariprasath5106/-Exp-8-Name-Hiding-with-interface-inheritance/assets/111515488/f7425046-1592-4ebd-ab32-9f7564e54550)
 
 # RESULT:
 Thus, the program has been executed successfully.
